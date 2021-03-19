@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Louie, I am a student currently attending Epicodus in Seattle and learning JavaScript, C#, and React.
+My name is Louie, I'm a student currently attending Epicodus in Seattle and learning JavaScript, C#, and React.
