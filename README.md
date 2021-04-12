@@ -23,7 +23,7 @@
   <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 <br />
-I am a junior web developer and full stack software engineer. Primary languages: C#, JavaScript, HTML and CSS. When I'm not coding, I love to read philosophy, play video games, go fishing, and play the drums!
+I am a junior web developer and full stack software engineer. Primary languages: C#, JavaScript, HTML and CSS. When I'm not coding, I love to read philosophy, play video games, go fishing, and play the drums.
 <br />
 <br />
 <div>
