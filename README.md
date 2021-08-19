@@ -21,9 +21,10 @@
   <img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
-<br />
-Web developer and full stack software engineer.
-<br />
+<br/>
+Web developer and full stack software engineer. Still learning how to center a div.
+<br/>
+<br/>
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=louiesch&show_icons=true&count_private=true&theme=midnight-purple" width="53%" />
 <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiesch&layout=compact&theme=midnight-purple" width="44%"/>
