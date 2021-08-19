@@ -22,10 +22,7 @@
   <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 <br />
-I am a junior web developer and full stack software engineer. Instructor at Epicodus coding bootcamp in Seattle, WA.
-<br />
-Primary languages: C#, JavaScript, HTML and CSS. When I'm not coding I love to read, play video games, go fishing, and rock out on the drums.
-<br />
+Web developer and full stack software engineer.
 <br />
 <div>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=louiesch&show_icons=true&count_private=true&theme=midnight-purple" width="53%" />
